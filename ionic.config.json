@@ -1,0 +1,7 @@
+{
+  "name": "les1-voorbeeld1-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
